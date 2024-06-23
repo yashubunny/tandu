@@ -1,1 +1,1 @@
-Hello world. This is new file in the git tutorial from 23/6/2023. I will complete the all courses related to the cloud computing and AI and Prompt Engineering.
+Hello world. This is new file in the git tutorial from 23/6/2023. I will complete the all courses related to the cloud computing and AI and Prompt Engineering. i am practising the git while learning.
